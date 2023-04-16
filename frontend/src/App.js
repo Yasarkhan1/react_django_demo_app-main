@@ -195,7 +195,7 @@ class App extends React.Component {
                             </div>
 
                             <div style={{flex:1}}>
-                                <button onClick={() => self.startEdit(task)} className="btn btn-sm btn-outline-info">Edit..</button>
+                                <button onClick={() => self.startEdit(task)} className="btn btn-sm btn-outline-info">Edit</button>
                             </div>
 
                             <div style={{flex:1}}>
